@@ -1,0 +1,14 @@
+{
+  "name": "rename_files",
+  "version": "1.0.0",
+  "description": "a little test of rename files",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Wandy Rosa",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
